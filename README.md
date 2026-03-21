@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Likhitha%20Gollapalli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20AWS%20Enthusiast&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Likhitha%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20AWS%20Enthusiast&descAlignY=51&descAlign=50" />
 
 </div>
 
