@@ -12,13 +12,12 @@
 
 I'm a **Frontend Developer** at Accenture with 3+ years of experience building and optimizing enterprise-scale React applications in the **Insurance** and **FinTech** domains.
 
-I specialize in writing clean, performant code — from refactoring legacy components to architecting CI/CD pipelines — and I care deeply about the user experience behind every line I ship.
+I specialize in writing clean code and refactoring legacy components to architecting CI/CD pipelines, I care deeply about the user experience behind every line I ship.
 
 - 🔭 Currently working on **React.js** production apps at Accenture
 - 🌱 Learning **Java Spring Boot** & deepening **AWS** expertise
 - ☁️ AWS CLF-C02 Certification — *coming soon*
 - 🤖 GitHub Copilot **GH-300 Certified** (Dec 2025)
-- 📍 Based in **Hyderabad, India**
 
 ---
 
