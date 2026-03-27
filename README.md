@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a **Frontend Developer** with 3+ years of experience building and optimizing enterprise-scale React applications in the **Insurance** and **FinTech** domains.
+I'm a **Frontend Developer** with 3+ years of experience in building and optimizing enterprise-scale React applications in the **Insurance** and **FinTech** domains.
 
 I specialize in writing clean code and refactoring legacy components to architecting CI/CD pipelines, I care deeply about the user experience behind every line I ship.
 
@@ -50,14 +50,6 @@ I specialize in writing clean code and refactoring legacy components to architec
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| [🌐 AI Augmented Portfolio](https://likitha4.github.io) | Next.js, TypeScript, Tailwind | Personal portfolio with semantic components, dark theme & OKLCH color system |
-| [🍽️ Restaurant Management App](https://github.com/likitha4) | React, Node.js, Express | Full-stack app with Context API, CRUD operations & RESTful API layer |
-
----
 
 
 
