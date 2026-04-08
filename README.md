@@ -8,18 +8,6 @@
 
 ---
 
-### 👩‍💻 About Me
-
-I'm a **Frontend Developer** with 3+ years of experience in building and optimizing enterprise-scale React applications in the **Insurance** and **FinTech** domains.
-
-I specialize in writing clean code and refactoring legacy components to architecting CI/CD pipelines, I care deeply about the user experience behind every line I ship.
-
-- 🔭 Currently working on **React.js** production apps.
-- 🌱 Learning **Java Spring Boot** & deepening **AWS** expertise
-- ☁️ AWS CLF-C02 Certification — *coming soon*
-- 🤖 GitHub Copilot **GH-300 Certified** (Dec 2025)
-
----
 
 ### 🛠️ Tech Stack
 
@@ -48,20 +36,7 @@ I specialize in writing clean code and refactoring legacy components to architec
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%203.5-D97757?style=for-the-badge)
 
----
 
-
-
-
-### 📬 Connect With Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likitha-g-7a8826194)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likithagollapalli2001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/likitha4)
-
-</div>
 
 ---
 
